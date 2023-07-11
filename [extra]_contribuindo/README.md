@@ -20,3 +20,7 @@ Durante os encontros são propostos exercícios de fixação para os encontros s
 ### [28 / jun](exercicios/01_28jun_tipos-elementos-requisições-estratégia.docx):
 
 Neste encontro foi proposto um exercício de análise do site de Porto Nacional (TO), bem como identificação de seus elementos essenciais e elaboração de estratégia para extração de todas edições do Diário Oficial deste site.
+
+## Módulo 3
+
+Este módulo é baseado na playlist do curso *[Python para Inovação Cívica | Módulo 3: Querido Diário, vou aprender a raspar dados!](https://www.youtube.com/playlist?list=PLpWp6ibmzPTc2rod9Hc822_3zMaq9G-qE)* que está disponível no [canal de YouTube da Escola de Dados](https://www.youtube.com/@EscoladeDados). Os arquivos utilizados para o acompanhamento das aulas deste curso estão todos nesta [pasta](modulo3).
