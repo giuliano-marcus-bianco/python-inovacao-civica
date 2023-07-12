@@ -23,4 +23,16 @@ Neste encontro foi proposto um exercício de análise do site de Porto Nacional 
 
 ## Módulo 3
 
-Este módulo é baseado na playlist do curso *[Python para Inovação Cívica | Módulo 3: Querido Diário, vou aprender a raspar dados!](https://www.youtube.com/playlist?list=PLpWp6ibmzPTc2rod9Hc822_3zMaq9G-qE)* que está disponível no [canal de YouTube da Escola de Dados](https://www.youtube.com/@EscoladeDados). Os arquivos utilizados para o acompanhamento das aulas deste curso estão todos nesta [pasta](modulo3).
+Este módulo é baseado na playlist do curso *[Python para Inovação Cívica | Módulo 3: Querido Diário, vou aprender a raspar dados!](https://www.youtube.com/playlist?list=PLpWp6ibmzPTc2rod9Hc822_3zMaq9G-qE)* que está disponível no [canal de YouTube da Escola de Dados](https://www.youtube.com/@EscoladeDados). Os arquivos *ipynb* utilizados para o acompanhamento das aulas deste curso estão todos nesta [pasta](modulo3).
+
+### Aulas
+
+* [X] 3.1 - Apresentando o Querido Diário
+* [X] [3.2 - Por dentro do Querido Diário](modulo3/3.2_por-dentro-do-meu-querido-diario.ipynb)
+* [X] [3.3 - Introdução à Orientação a Objetos](modulo3/3.3_introducao-a-orientacao-a-objetos.ipynb)
+* [X] [3.4 - Por dentro do raspador do Querido Diário](modulo3/3.4_por-dentro-do-raspador-do-querido-diario.ipynb)
+* [X] [3.5 - Analisando páginas web: inspecionando elementos](3.5_analisando-paginas-da-web_inspecionando-elementos.ipynb)
+* [X] [3.6 - Analisando páginas web: inspecionando a rede](3.6_analisando-paginas-da-web_inspecionando-a-rede.ipynb)
+* [ ] 3.7 - Selecionando elementos com XPath
+* [ ] 3.8 - Expressões regulares
+* [ ] 3.9 - Traduzindo a análise para um raspador
