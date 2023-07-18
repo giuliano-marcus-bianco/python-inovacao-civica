@@ -21,7 +21,7 @@ Durante os encontros são propostos exercícios de fixação para os encontros s
 
 Análise do site de Porto Nacional (TO), com a identificação dos elementos essenciais e elaboração de estratégia para a raspagem dos dados de todas edições do Diário Oficial deste município.
 
-### 12/ jul:
+### [12/ jul](exercicios/02_12jul_criando_a_classe_do_raspador.ipynb):
 
 Utilizar a análise acima como base para iniciar a definição da classe de raspagem dos dados. Para isso, preencher os primeiros atributos seguindo o modelo passado pelo canal do discord, e definiir o método parse utilizando pseudo código.
 
