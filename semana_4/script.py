@@ -43,6 +43,7 @@ DTYPE = {
     'nuDeputadoId': str,
     'ideDocumento': str,
 }
+
 print("lendo csv reembolso...")
 df = pd.read_csv(
     "reembolso-2019/Ano-2019.csv", 
